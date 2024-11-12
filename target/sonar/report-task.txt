@@ -1,0 +1,6 @@
+projectKey=Aya
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=Aya
+ceTaskId=2ec8d59f-ee75-4174-838d-fae596203a95
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2ec8d59f-ee75-4174-838d-fae596203a95
